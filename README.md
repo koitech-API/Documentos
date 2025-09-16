@@ -1,22 +1,85 @@
-# API 1º SEMESTRE DSM
-# Análise do Censo 2022 em São José dos Campos - KOITECH
+# Análise do Censo 2022 em São José dos Campos
 
-## PRODUCT BACKLOG
+<p align="center">
+  <img width="200" alt="koitech_logo" src="https://github.com/user-attachments/assets/53c3002d-f47b-466a-a532-b1b5d846d711" />
+</p>
 
-| RANK | PRIORIDADE | USER STORY                                                                                                           | ESTIMATIVA | SPRINT |
-| ---- | :---------:| -------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-|   01 |       Alta | Como secretário, quero visualizar um protótipo do site para compreender a navegação planejada.                       |    4 horas |     01 |
-|   02 |       Alta | Como analista, quero que os dados da pirâmide etária sejam tratados para garantir precisão.                          |    6 horas |     01 |
-|   03 |      Média | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |    6 horas |     01 |
-|   04 |      Média | Como analista, quero comparar a pirâmide etária das regiões Leste e Oeste para identificar diferenças populacionais. |    5 horas |     01 |
-|   05 |       Alta | Como secretário, quero comparar múltiplas regiões além de Leste e Oeste.                                             |    7 horas |     02 |
-|   06 |       Alta | Como cliente, quero que ajustes sejam feitos conforme feedback anterior para melhorar a usabilidade.                 |    4 horas |     02 |
-|   07 |      Média | Como secretário, quero visualizar a população total por região para ter uma visão geral.                             |    5 horas |     02 |
-|   08 |      Média | Como analista, quero analisar a renda das regiões para compreender aspectos socioeconômicos.                         |    6 horas |     02 |
-|   09 |       Alta | Como analista, quero aplicar filtros (região, faixa etária, renda) para personalizar a análise.                      |    8 horas |     03 |
-|   10 |      Média | Como secretário, quero acessar o site online sem necessidade de instalação.                                          |    7 horas |     03 |
-|   11 |      Baixa | Como secretário, quero visualizar também dados de nível de instrução (se disponíveis).                               |    5 horas |     03 |
-|   12 |      Baixa | Como secretário, quero uma interface clara e agradável para facilitar a interpretação dos gráficos.                  |    6 horas |     03 |
+<div align="center">
+  <b>KOITECH</b>
+</div>
+
+<p align="center">
+  | <a href ="#tecnologias">Tecnologias</a> |
+  <a href ="#problema"> Problema</a>  |
+  <a href ="#solucao"> Solução</a>  |   
+  <a href ="#backlog"> Backlog do Produto</a>  |
+  <a href ="#dor">DoR</a>  |
+  <a href ="#dod">DoD</a>  |
+  <a href ="#sprint"> Cronograma de Sprints</a>  |
+  <a href ="#manual">Manual de Instalação</a>  | 
+  <a href ="#equipe"> Equipe</a> |
+</p>
+
+## 💻 Tecnologias <a id="tecnologias"></a>
+
+<h4 align="center">
+ <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+ <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</h4>
+
+<br>
+
+## 📌 Problema <a id="problema"></a>
+A **Secretaria de Planejamento Urbano** de São José dos Campos possui uma quantidade massiva de dados do censo, mas não consegue transformá-los em informações estratégicas e visuais para a gestão municipal.
+
+## 📌 Solução <a id="solucao"></a>
+A solução proposta para a **Secretaria de Planejamento Urbano** foi realizarmos uma análise detalhada dos dados do Censo, focando na cidade de São José dos Campos.
+
+## 📅 Cronograma de Sprints
+
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](#) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](#) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](#) |
+
+## 📝 PRODUCT BACKLOG <a id="backlog"></a>
+
+| RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
+| ---- | :--------: | -------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
+| 01   |    Alta    | Como secretário, quero visualizar um protótipo do site para compreender a navegação planejada.                       |   4 horas    |   01   |   ❌   |
+| 02   |    Alta    | Como analista, quero que os dados da pirâmide etária sejam tratados para garantir precisão.                          |   6 horas    |   01   |   ❌   |
+| 03   |   Média    | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |   6 horas    |   01   |   ❌   |
+| 04   |   Média    | Como analista, quero comparar a pirâmide etária das regiões Leste e Oeste para identificar diferenças populacionais. |   5 horas    |   01   |   ❌   |
+| 05   |    Alta    | Como secretário, quero comparar múltiplas regiões além de Leste e Oeste.                                             |   7 horas    |   02   |   ❌   |
+| 06   |    Alta    | Como cliente, quero que ajustes sejam feitos conforme feedback anterior para melhorar a usabilidade.                 |   4 horas    |   02   |   ❌   |
+| 07   |   Média    | Como secretário, quero visualizar a população total por região para ter uma visão geral.                             |   5 horas    |   02   |   ❌   |
+| 08   |   Média    | Como analista, quero analisar a renda das regiões para compreender aspectos socioeconômicos.                         |   6 horas    |   02   |   ❌   |
+| 09   |    Alta    | Como analista, quero aplicar filtros (região, faixa etária, renda) para personalizar a análise.                      |   8 horas    |   03   |   ❌   |
+| 10   |   Média    | Como secretário, quero acessar o site online sem necessidade de instalação.                                          |   7 horas    |   03   |   ❌   |
+| 11   |   Baixa    | Como secretário, quero visualizar também dados de nível de instrução (se disponíveis).                               |   5 horas    |   03   |   ❌   |
+| 12   |   Baixa    | Como secretário, quero uma interface clara e agradável para facilitar a interpretação dos gráficos.                  |   6 horas    |   03   |   ❌   |
+
+## ✔️ DoR - Definition of Ready
+  - Backlog priorizado de acordo com valor de negócio
+  - Item descritivo e claro
+  - Meta definida e possivel
+  - Critérios de valor definidos
+
+## 🎯 DoD - Definition of Done
+  - Backlog refinado e priorizado no repositório
+  - Backlog está disponível, atualizado e visível para todos
+
+## 🪵 Branch Strategy
+Github Flow foi a estrátegia escolhida por ser fácil e rápida de trabalhar, perfeita para equipes pequenas, além de se adequar a projetos que não são construido através de versões. Github Flow possui algumasd regras básicas:
+- A branch `main` é sempre deployable
+- Nova branch para cada nova feature
+- Commits com mensagens simples e claras
+- Pull Requests para features concluidas
+- Merge as branchs caso tudo esteja de acordo
+
 
 ## EQUIPE
 | MEMBRO              | PAPEL         | GITHUB                                                                                                                                                        |
