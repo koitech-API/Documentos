@@ -55,7 +55,7 @@ A solução proposta para a **Secretaria de Planejamento Urbano** foi realizarmo
 | 12   |   Baixa    | Como secretário, quero uma interface clara e agradável para facilitar a interpretação dos gráficos.                  |   6 horas    |   03   |   ❌   |
 
 ## ⏱️ Cronograma de Evolução
-(ainda a ser feito)
+(ainda será feito)
 
 ## 📅 Cronograma de Sprints
 
