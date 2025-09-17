@@ -20,7 +20,7 @@ jobs:
         run: |
           git clone "https://${{ secrets.PAT_DISPATCH }}@github.com/koitech-API/ProjectAPI.git"
           cp README.md ./ProjectAPI/README.md
-          cd ./ProjectAPI/README.md
+          cd ./ProjectAPI
           git add README.md
           git commit -m "docs: Atualiza README"
           git push
