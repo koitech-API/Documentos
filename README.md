@@ -84,7 +84,7 @@ Github Flow foi a estrátegia escolhida por ser fácil e rápida de trabalhar, p
 - Merge as branchs caso tudo esteja de acordo
 
 ## 🦴 Estrutura do Projeto
-(ainda a ser feito)
+(ainda será feito)
 
 ## 💻 Como executar
 (ainda a ser feito)
