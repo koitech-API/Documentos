@@ -41,9 +41,9 @@ A solução proposta para a **Secretaria de Planejamento Urbano** foi realizarmo
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](#) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](#) |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](#) |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](/scrum/sprints/sprint%201/README.md) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](/scrum/sprints/sprint%202/README.md) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](/scrum/sprints/sprint%203/README.mds) |
 
 ## 📝 PRODUCT BACKLOG <a id="backlog"></a>
 
