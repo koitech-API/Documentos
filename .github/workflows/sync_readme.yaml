@@ -1,0 +1,26 @@
+name: Sync README
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  sycn:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup GIT
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@koitech.com'
+
+      - name: Copy Readme
+        run: |
+          git clone "https://${{ secrets.PAT_DISPATCH }}@github.com/koitech-API/ProjectAPI.git"
+          cp README.md ./ProjectAPI/README.md
+          cd ./ProjectAPI/README.md
+          git add README.md
+          git commit -m "docs: Atualiza README"
+          git push
