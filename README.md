@@ -40,7 +40,7 @@ A solução proposta para a **Secretaria de Planejamento Urbano** foi realizarmo
 ## 📝 PRODUCT BACKLOG <a id="backlog"></a>
 
 | RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
-| ---- | :--------: | -------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
+| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
 | 01   |    Alta    | Como secretário, quero visualizar um protótipo do site para compreender a navegação planejada.                       |   4 horas    |   01   |   🟩   |
 | 02   |    Alta    | Como analista, quero que os dados da pirâmide etária sejam tratados para garantir precisão.                          |   6 horas    |   01   |   🟥   |
 | 03   |   Média    | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |   6 horas    |   01   |   🟨   |
@@ -55,7 +55,7 @@ A solução proposta para a **Secretaria de Planejamento Urbano** foi realizarmo
 | 12   |   Baixa    | Como secretário, quero uma interface clara e agradável para facilitar a interpretação dos gráficos.                  |   6 horas    |   03   |   ❌   |
 
 ## ⏱️ Cronograma de Evolução
-(ainda a ser feito)
+(ainda será feito)
 
 ## 📅 Cronograma de Sprints
 
