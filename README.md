@@ -37,14 +37,6 @@ A **Secretaria de Planejamento Urbano** de São José dos Campos possui uma quan
 ## 📌 Solução <a id="solucao"></a>
 A solução proposta para a **Secretaria de Planejamento Urbano** foi realizarmos uma análise detalhada dos dados do Censo, focando na cidade de São José dos Campos.
 
-## 📅 Cronograma de Sprints
-
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](/scrum/sprints/sprint%201/README.md) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](/scrum/sprints/sprint%202/README.md) |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](/scrum/sprints/sprint%203/README.mds) |
-
 ## 📝 PRODUCT BACKLOG <a id="backlog"></a>
 
 | RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
@@ -61,6 +53,17 @@ A solução proposta para a **Secretaria de Planejamento Urbano** foi realizarmo
 | 10   |   Média    | Como secretário, quero acessar o site online sem necessidade de instalação.                                          |   7 horas    |   03   |   ❌   |
 | 11   |   Baixa    | Como secretário, quero visualizar também dados de nível de instrução (se disponíveis).                               |   5 horas    |   03   |   ❌   |
 | 12   |   Baixa    | Como secretário, quero uma interface clara e agradável para facilitar a interpretação dos gráficos.                  |   6 horas    |   03   |   ❌   |
+
+## ⏱️ Cronograma de Evolução
+(ainda a ser feito)
+
+## 📅 Cronograma de Sprints
+
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](/scrum/sprints/sprint%201/README.md) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](/scrum/sprints/sprint%202/README.md) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](/scrum/sprints/sprint%203/README.mds) |
 
 ## ✔️ DoR - Definition of Ready
   - Backlog priorizado de acordo com valor de negócio
@@ -80,14 +83,19 @@ Github Flow foi a estrátegia escolhida por ser fácil e rápida de trabalhar, p
 - Pull Requests para features concluidas
 - Merge as branchs caso tudo esteja de acordo
 
+## 🦴 Estrutura do Projeto
+(ainda a ser feito)
+
+## 💻 Como executar
+(ainda a ser feito)
 
 ## EQUIPE
-| MEMBRO              | PAPEL         | GITHUB                                                                                                                                                        |
-| ------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Guilherme Alvarenga | Product Owner | <a href="https://github.com/guilhermealvarenga021"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-| Lucas Pereira       | Scrum Master  | <a href="http://github.com/lupesii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>                |
-| Giovana Tarozo      | Desenvolvedor | <a href="https://github.com/giotrzz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>               |
-| João Souza          | Desenvolvedor | <a href="https://github.com/joao-luis-0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>           |
-| Mariana Souza       | Desenvolvedor | <a href="https://github.com/nevesmariana"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>          |
-| Rayssa Rizzi        | Desenvolvedor | <a href="https://github.com/rayssarizzi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>           |
-| Robert Marques      | Desenvolvedor | <a href="https://github.com/Robert-gus"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>            |
+| MEMBRO              | PAPEL         | GITHUB                                                                                                                                                        | LINKEDIN                                    |
+| :-----------------: | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------:| 
+| Guilherme Alvarenga | Product Owner | <a href="https://github.com/guilhermealvarenga021"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+| Lucas Pereira       | Scrum Master  | <a href="http://github.com/lupesii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>                |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+| Giovana Tarozo      | Desenvolvedor | <a href="https://github.com/giotrzz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>               |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+| João Souza          | Desenvolvedor | <a href="https://github.com/joao-luis-0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>           |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+| Mariana Souza       | Desenvolvedor | <a href="https://github.com/nevesmariana"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>          |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+| Rayssa Rizzi        | Desenvolvedor | <a href="https://github.com/rayssarizzi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>           |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+| Robert Marques      | Desenvolvedor | <a href="https://github.com/Robert-gus"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>            |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
