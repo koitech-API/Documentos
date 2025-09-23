@@ -30,7 +30,7 @@ As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em co
 | 01   |    Alta    | Como secretário, quero visualizar um protótipo do site para compreender a navegação planejada.                       |   4 horas    |   01   |   🟩   |
 | 02   |    Alta    | Como analista, quero que os dados da pirâmide etária sejam tratados para garantir precisão.                          |   6 horas    |   01   |   🟥   |
 | 03   |   Média    | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |   6 horas    |   01   |   🟨   |
-| 04   |   Média    | Como analista, quero comparar a pirâmide etária das regiões Leste e Oeste para identificar diferenças populacionais. |   5 horas    |   01   |   ❌   |
+| 04   |   Média    | Como analista, quero comparar a pirâmide etária entre anos (2010 x 2022) para identificar diferenças populacionais.  |   5 horas    |   01   |   ❌   |
 
 ## ✔️ DoR - Definition of Ready
 
@@ -58,7 +58,7 @@ As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em co
 ## 👥 EQUIPE
 | MEMBRO              | PAPEL         | GITHUB                                                                                                                                                        | LINKEDIN                                    |
 | :-----------------: | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------:| 
-| Guilherme Alvarenga | Product Owner | <a href="https://github.com/guilhermealvarenga021"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+| Guilherme Alvarenga | Product Owner | <a href="https://github.com/hiGuigo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 | Lucas Pereira       | Scrum Master  | <a href="http://github.com/lupesii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>                |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 | Giovana Tarozo      | Desenvolvedor | <a href="https://github.com/giotrzz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>               |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 | João Souza          | Desenvolvedor | <a href="https://github.com/joao-luis-0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>           |<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
