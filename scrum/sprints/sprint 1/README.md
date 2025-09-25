@@ -28,9 +28,9 @@ As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em co
 | RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
 | ---- | :--------: | -------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
 | 01   |    Alta    | Como secretário, quero visualizar um protótipo do site para compreender a navegação planejada.                       |   4 horas    |   01   |   🟩   |
-| 02   |    Alta    | Como analista, quero que os dados da pirâmide etária sejam tratados para garantir precisão.                          |   6 horas    |   01   |   🟥   |
-| 03   |   Média    | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |   6 horas    |   01   |   🟨   |
-| 04   |   Média    | Como analista, quero comparar a pirâmide etária entre anos (2010 x 2022) para identificar diferenças populacionais.  |   5 horas    |   01   |   ❌   |
+| 02   |    Alta    | Como analista, quero que os dados da pirâmide etária sejam tratados para garantir precisão.                          |   6 horas    |   01   |   🟨   |
+| 03   |   Média    | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |   6 horas    |   01   |   🟩   |
+| 04   |   Média    | Como analista, quero comparar a pirâmide etária entre anos (2010 x 2022) para identificar diferenças populacionais.  |   5 horas    |   01   |   🟨   |
 
 ## ✔️ DoR - Definition of Ready
 
