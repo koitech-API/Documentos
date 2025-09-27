@@ -12,6 +12,7 @@
 
 <p align="center">
   | <a href ="#meta"> Meta</a>  |
+  <a href ="#demonstracao">Demonstração</a>  |
   <a href ="#us"> User Stories</a>  |   
   <a href ="#dor">DoR</a>  |
   <a href ="#dod">DoD</a>  |
@@ -23,6 +24,11 @@
 ## 🏅 Meta <a id="meta"></a>
 As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em como resolvermos sua 'dor', escolhemos então as US de rank 2 e 4 para serem nossas metas de entrega e as US 1 e 3 para serem as extras caso seja possível entregar
 
+## 📌 Demonstração (vídeos)<a id="demonstracao"></a>
+  - <a href="https://www.youtube.com/watch?v=8izK_qOPVEU">Google Colab</a> 
+  - <a href="https://www.youtube.com/watch?v=_1wC6rgtIvA">Site</a> 
+
+
 ## 📝 User Stories <a id="us"></a>
 
 | RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
@@ -31,6 +37,9 @@ As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em co
 | 02   |    Alta    | Como analista, quero que os dados da pirâmide etária sejam tratados para garantir precisão.                          |   6 horas    |   01   |   🟩   |
 | 03   |   Média    | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |   6 horas    |   01   |   🟩   |
 | 04   |   Média    | Como analista, quero comparar a pirâmide etária entre anos (2010 x 2022) para identificar diferenças populacionais.  |   5 horas    |   01   |   🟩   |
+
+## ⏱️ Burndown
+<img alt="koitech_logo" src="burndownSprint01.png" />
 
 ## ✔️ DoR - Definition of Ready
 
