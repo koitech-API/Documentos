@@ -38,9 +38,6 @@ As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em co
 | 03   |   Média    | Como secretário, quero acessar uma versão inicial do site para interagir com os primeiros gráficos.                  |   6 horas    |   01   |   🟩   |
 | 04   |   Média    | Como analista, quero comparar a pirâmide etária entre anos (2010 x 2022) para identificar diferenças populacionais.  |   5 horas    |   01   |   🟩   |
 
-## ⏱️ Burndown
-<img alt="koitech_logo" src="burndownSprint01.png" />
-
 ## ✔️ DoR - Definition of Ready
 
 |         Critério     | Descrição                                                                                   |

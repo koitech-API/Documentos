@@ -27,10 +27,11 @@ As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em co
 
 | RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
 | ---- | :--------: | -------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
-|  05   |    Alta    | Como secretário quero poder comparar outros anos para identificar o crecimentos dos indicadores.                      |   7 horas    |   02   |   ❌    |
-|  06   |    Alta    | Como cliente, quero que ajustes sejam feitos conforme feedback anterior para melhorar a usabilidade.                  |   4 horas    |   02   |   ❌    |
-|  07   |   Média    | Como secretário, quero visualizar a população total por ano para uma visão geral.                                     |   5 horas    |   02   |   ❌    |
-|  08   |   Média    | Como analista, quero analisar a renda média para compreender aspectos socioeconômicos.                                |   6 horas    |   02   |   ❌    |
+|  05   |    Alta    | Como pesquisador, quero calcular a proporção de jovens (15–29 anos) sobre o total da população, para compreender o peso demográfico da juventude em cada cidade. |   8 horas    |   02   |   ❌    |
+|  06   |    Média   | Como analista visual, quero gerar pirâmides etárias para SJC e SP, para mostrar visualmente as diferenças na estrutura de idade entre as cidades. |   6 horas    |   02   |   ❌    |
+|  07   |    Alta    | Como analista socioeconômico, quero calcular níveis de escolaridade e renda média dos jovens, para avaliar oportunidades e desigualdades entre as cidades |   8 horas    |   02   |   ❌    |
+|  08   |    Média   | Como pesquisador, quero correlacionar escolaridade e renda dos jovens, para entender se o aumento da educação está refletindo em melhores rendimentos. |   6 horas    |   02   |   ❌    |
+|  09   |    Alta    | Como planejador urbano, quero extrair insights sobre retenção e atração de jovens em São José dos Campos, para orientar políticas públicas e estratégias de desenvolvimento local. |   4 horas    |   02   |   ❌    |
 
 ## ✔️ DoR - Definition of Ready <a id="dor"></a>
 
