@@ -18,20 +18,20 @@
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-> Status da Sprint: Em andamento 🟨
+> Status da Sprint: Concluída 🟩
 >
 ## 🏅 Meta <a id="meta"></a>
-As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em como resolvermos sua 'dor', escolhemos então as US de rank 5 e 8 para serem nossas metas de entrega e as US 6 e 7 para serem as extras caso seja possível entregar
+As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em como resolvermos sua 'dor', escolhemos então as US de rank 5 e 8 para serem nossas metas de entrega e as US 6, 7 e 9 para serem as extras caso seja possível entregar
 
 ## 📝 User Stories <a id="us"></a>
 
 | RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
 | ---- | :--------: | -------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :----: |
-|  05   |    Alta    | Como pesquisador, quero calcular a proporção de jovens (15–29 anos) sobre o total da população, para compreender o peso demográfico da juventude em cada cidade. |   8 horas    |   02   |   ❌    |
-|  06   |    Média   | Como analista visual, quero gerar pirâmides etárias para SJC e SP, para mostrar visualmente as diferenças na estrutura de idade entre as cidades. |   6 horas    |   02   |   ❌    |
-|  07   |    Alta    | Como analista socioeconômico, quero calcular níveis de escolaridade e renda média dos jovens, para avaliar oportunidades e desigualdades entre as cidades |   8 horas    |   02   |   ❌    |
-|  08   |    Média   | Como pesquisador, quero correlacionar escolaridade e renda dos jovens, para entender se o aumento da educação está refletindo em melhores rendimentos. |   6 horas    |   02   |   ❌    |
-|  09   |    Alta    | Como planejador urbano, quero extrair insights sobre retenção e atração de jovens em São José dos Campos, para orientar políticas públicas e estratégias de desenvolvimento local. |   4 horas    |   02   |   ❌    |
+|  05   |    Alta    | Como pesquisador, quero calcular a proporção de jovens (15–29 anos) sobre o total da população, para compreender o peso demográfico da juventude em cada cidade. |   8 horas    |   02   |   🟩    |
+|  06   |    Média   | Como analista visual, quero gerar pirâmides etárias para SJC e SP, para mostrar visualmente as diferenças na estrutura de idade entre as cidades. |   6 horas    |   02   |   🟩    |
+|  07   |    Alta    | Como analista socioeconômico, quero calcular níveis de escolaridade e renda média dos jovens, para avaliar oportunidades e desigualdades entre as cidades |   8 horas    |   02   |   🟩    |
+|  08   |    Média   | Como pesquisador, quero correlacionar escolaridade e renda dos jovens, para entender se o aumento da educação está refletindo em melhores rendimentos. |   6 horas    |   02   |   🟩    |
+|  09   |    Alta    | Como planejador urbano, quero extrair insights sobre retenção e atração de jovens em São José dos Campos, para orientar políticas públicas e estratégias de desenvolvimento local. |   4 horas    |   02   |   🟩    |
 
 ## ✔️ DoR - Definition of Ready <a id="dor"></a>
 
@@ -62,9 +62,9 @@ As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em co
 |       MEMBRO        |     PAPEL     |                                                                            GITHUB                                                                             |                                                         LINKEDIN                                                          |
 | :-----------------: | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
 | Guilherme Alvarenga | Product Owner | <a href="https://github.com/guilhermealvarenga021"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|    Lucas Pereira    | Scrum Master  |        <a href="http://github.com/lupesii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>         | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|   Giovana Tarozo    | Desenvolvedor |        <a href="https://github.com/giotrzz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>        | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|    Giovana Tarozo   | Scrum Master  |        <a href="https://github.com/giotrzz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>         | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |     João Souza      | Desenvolvedor |      <a href="https://github.com/joao-luis-0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>      | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|   Lucas Pereira    | Desenvolvedor |        <a href="http://github.com/lupesii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>        | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |    Mariana Souza    | Desenvolvedor |     <a href="https://github.com/nevesmariana"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>      | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |    Rayssa Rizzi     | Desenvolvedor |      <a href="https://github.com/rayssarizzi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>      | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |   Robert Marques    | Desenvolvedor |      <a href="https://github.com/Robert-gus"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>       | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
