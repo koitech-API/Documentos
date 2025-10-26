@@ -12,6 +12,7 @@
 
 <p align="center">
   | <a href ="#meta"> Meta</a>  |
+  <a href ="#demonstracao">Demonstração</a>  |
   <a href ="#us"> User Stories</a>  |   
   <a href ="#dor">DoR</a>  |
   <a href ="#dod">DoD</a>  |
@@ -22,6 +23,10 @@
 >
 ## 🏅 Meta <a id="meta"></a>
 As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em como resolvermos sua 'dor', escolhemos então as US de rank 5 e 8 para serem nossas metas de entrega e as US 6, 7 e 9 para serem as extras caso seja possível entregar
+
+## 📌 Demonstração (vídeos)<a id="demonstracao"></a>
+  - <a href="https://www.youtube.com/watch?v=89rtlxKDMnE">Google Colab</a> 
+  - <a href="https://www.youtube.com/watch?v=GBBI2y5LWT8">Site</a> 
 
 ## 📝 User Stories <a id="us"></a>
 
