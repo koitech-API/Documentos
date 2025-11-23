@@ -25,8 +25,8 @@
 As metas dessa sprint foram focadas na entrega de valor ao nosso cliente e em como resolvermos sua 'dor', escolhemos então as US de rank 14 e 15 como metas.
 
 ## 📌 Demonstração (vídeos)<a id="demonstracao"></a>
-  - <a href="">Google Colab</a> 
-  - <a href="">Site</a> 
+  - <a href="https://www.youtube.com/watch?v=KXfT9eZ9tEQ">Google Colab</a> 
+  - <a href="https://www.youtube.com/watch?v=WkD1yPfPB5A">Site</a> 
 
 ## 📝 User Stories <a id="us"></a>
 | RANK | PRIORIDADE | USER STORY                                                                                                           | Story Points | SPRINT | STATUS |
